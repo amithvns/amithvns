@@ -29,6 +29,7 @@ I am a passionate, responsible and committed developer, with a get-it-done, on-t
   <img src="https://img.stackshare.io/service/6590/hasura_logo_vertical_black.png" alt="hasura" width="70" height="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="70" height="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="70" height="70" />
+  <ima src="https://cdn.worldvectorlogo.com/logos/algolia-1.svg" alt="algolia" width="70" height="70" />
 </p>
 
 <br>
