@@ -28,10 +28,12 @@ I am a passionate, responsible and committed developer, with a get-it-done, on-t
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="70" height="70" />
+  <img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/sentry-wordmark-dark-400x119.png?itok=OowPqbgC" width="240" height="70" alt="sentry">
 </p>
 <h2>🌱 I’m currently learning</h2>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="70" height="70" />
+  <img class="larger" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="prisma" width="180" height="70">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="70" height="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="70" height="70" />  
 </p>
