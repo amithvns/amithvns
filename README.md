@@ -23,7 +23,7 @@ I am a passionate, responsible and committed developer, with a get-it-done, on-t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="70" height="70" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/12_Algolia_logo_logos-512.png" alt="algolia" width="70" height="70" />
-  <img src="https://img.stackshare.io/service/6590/hasura_logo_vertical_black.png" alt="hasura" width="70" height="70" />
+  <img src="https://hasura.io/brand-assets/hasura-logo-mono-neutral.svg" alt="hasura" width="180" height="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="70" height="70" />
 </p>
 <p>
