@@ -39,8 +39,6 @@ I am a passionate, responsible and committed developer, with a get-it-done, on-t
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=amithvns&show_icons=true&count_private=true" alt="amithvns" />
-
 <!--
 **amithvns/amithvns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
